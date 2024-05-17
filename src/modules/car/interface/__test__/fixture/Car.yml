@@ -1,0 +1,20 @@
+entity: Car
+items:
+  car0:
+    id: '1'
+    make: 'Toyota'
+    model: 'Corolla'
+    year: 2018
+    color: 'Red'
+    mileage: 35000
+    fuelType: 'Gasoline'
+    transmission: 'Automatic'
+    seats: 5
+    pricePerDay: 50
+    available: true
+    type: 'Sedan'
+    condition: 'Used'
+    location: 'Los Angeles'
+    licensePlate: 'ABC123'
+    pictures:
+      - '@picture0'
